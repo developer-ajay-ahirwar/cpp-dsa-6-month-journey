@@ -8,7 +8,7 @@ using namespace std;
 
 int main(){
     int firstNumber, secondNumber;
-    cout << "Enter two numbers: ";
+    cout << "Enter Frist numbers: ";
     cin >> firstNumber;
     cout << "Enter second number: ";
     cin >> secondNumber;
