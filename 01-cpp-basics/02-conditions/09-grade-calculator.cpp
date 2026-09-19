@@ -1,3 +1,7 @@
+// Problem: Calculate the grade based on the given percentage.
+// Topic: if-else-if-else
+// Difficulty: Easy
+// Approach: Compare the percentage with different ranges and assign the appropriate grade.
 
 #include <iostream>
 using namespace std;
