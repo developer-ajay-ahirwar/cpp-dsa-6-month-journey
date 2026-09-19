@@ -1,3 +1,7 @@
+// Problem: Find the largest among three numbers.
+// Topic: Nested if
+// Difficulty: Easy
+// Approach: Compare the three numbers using nested conditional statements.
 
 #include <iostream>
 using namespace std;
