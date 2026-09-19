@@ -1,3 +1,7 @@
+// Problem: Perform arithmetic operations using two numbers and an operator.
+// Topic: switch statement
+// Difficulty: Easy
+// Approach: Take two numbers and an operator as input and use switch to perform the selected operation.
 
 #include <iostream>
 using namespace std;
