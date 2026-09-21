@@ -2,15 +2,12 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-    int Number;
+int main() {
+    int n;
     cout << "Enter a number: ";
-    cin >> Number;
-    int total = 0;
-    for(int i = 1; i <= Number; i++){
-        total += i;
-        
+    cin >> n;
+    for (int i = 1; i <= n; i++) {
+        cout << i << " ";
     }
-    cout << total << " ";
     return 0;
 }
