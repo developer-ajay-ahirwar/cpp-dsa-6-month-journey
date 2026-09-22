@@ -1,3 +1,7 @@
+// Problem: Print all even numbers from 1 to N.
+// Topic: for loop, if statement, Modulus Operator
+// Difficulty: Easy
+// Approach: Loop from 1 to N and print numbers whose remainder after division by 2 is zero.
 
 #include <iostream>
 using namespace std;
