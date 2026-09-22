@@ -1,3 +1,7 @@
+// Problem: Print the multiplication table of a given number from 1 to 10.
+// Topic: for loop, Arithmetic Operators
+// Difficulty: Easy
+// Approach: Use a for loop from 1 to 10 and multiply the given number by each value.
 
 #include <iostream>
 using namespace std;
