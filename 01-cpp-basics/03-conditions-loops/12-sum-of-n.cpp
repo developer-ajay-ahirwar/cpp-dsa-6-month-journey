@@ -1,3 +1,7 @@
+// Problem: Calculate the sum of numbers from 1 to N.
+// Topic: for loop
+// Difficulty: Easy
+// Approach: Use a loop to add each number from 1 to N to a sum variable.
 
 #include <iostream>
 using namespace std;
