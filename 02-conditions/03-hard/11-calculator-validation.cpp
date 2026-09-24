@@ -42,4 +42,5 @@ int main(){
             cout << operators << " Your Opertor Invalid";
             break;
     }
+    return 0;
 }
