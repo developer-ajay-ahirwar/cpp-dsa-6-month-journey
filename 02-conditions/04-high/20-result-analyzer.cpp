@@ -1,5 +1,4 @@
-
-// Problem: Create functions to calculate total, percentage, grade, and pass/fail status for student marks.
-// Topic: Multiple Functions and Conditional Logic
+// Problem: Calculate total, percentage, pass/fail status, grade, highest marks, and lowest marks for five subjects.
+// Topic: Nested if, if-else-if-else, Logical Operators
 // Difficulty: High
-// Approach: Divide each calculation into a separate function and combine the results.
+// Approach: Process the five marks and use conditional statements to determine the complete result.
