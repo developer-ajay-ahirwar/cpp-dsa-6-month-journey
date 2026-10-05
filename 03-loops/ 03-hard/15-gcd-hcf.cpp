@@ -25,6 +25,5 @@ int main(){
     else {
         cout << "Please Enter Non-Nagetive Number: ";
     }
-
     return 0;
 }
