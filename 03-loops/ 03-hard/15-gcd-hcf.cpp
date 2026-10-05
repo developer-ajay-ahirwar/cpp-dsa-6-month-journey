@@ -2,3 +2,4 @@
 // Topic: Loop and Number Theory
 // Difficulty: Hard
 // Approach: Repeatedly use the remainder operation until the remainder becomes zero.
+
