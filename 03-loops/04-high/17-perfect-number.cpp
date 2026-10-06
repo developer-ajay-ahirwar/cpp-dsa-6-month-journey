@@ -30,4 +30,5 @@ int main(){
             cout << "Not Perfect";
         }
     }
+    return 0;
 }
