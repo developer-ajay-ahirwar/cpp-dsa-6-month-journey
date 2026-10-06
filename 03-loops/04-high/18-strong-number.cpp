@@ -35,4 +35,5 @@ int main(){
             cout << "Not Strong Number";
         }
     }
+    return 0;
 }
