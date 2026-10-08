@@ -15,10 +15,10 @@ Focus:
 - GeeksforGeeks
 
 Progress:
-- [ ] C++ Basics
-- [ ] Conditions
-- [ ] Loops
-- [ ] Functions
+- [✔] C++ Basics
+- [✔] Conditions
+- [✔] Loops
+- [...] Functions
 - [ ] Arrays
 - [ ] Strings
 - [ ] Pointers
