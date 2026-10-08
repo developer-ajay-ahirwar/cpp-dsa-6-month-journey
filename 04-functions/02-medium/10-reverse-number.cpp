@@ -1,4 +1,4 @@
-// Problem: Create a function to count the number of digits in an integer.
-// Topic: Function and Loops
+// Problem: Create a function to reverse an integer.
+// Topic: Function and Digit Manipulation
 // Difficulty: Medium
-// Approach: Repeatedly remove the last digit and count the iterations.
+// Approach: Extract digits one by one and construct the reversed number.
