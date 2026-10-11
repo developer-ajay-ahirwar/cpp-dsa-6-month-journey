@@ -31,5 +31,5 @@ int main(){
     else {
         cout << n << " Not Palindrome Number: " << endl;
     }
-    
+    return 0;
 }
